@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my profile 👋
 
 [![Aryo's github stats](https://github-readme-stats.vercel.app/api?username=aryodh&count_private=true&show_icons=true&theme=dracula)](https://github.com/aryodh/github-readme-stats)
 <!--
